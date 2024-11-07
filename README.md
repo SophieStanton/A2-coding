@@ -31,6 +31,7 @@ This coding challenge intends to to tackle an artistic challenge that combined a
 
 <img width="601" alt="Screen Shot 2024-11-02 at 12 34 45 pm" src="https://github.com/user-attachments/assets/b2fe14e6-9bd5-4e97-9069-7cba61e3cae7">
 
+
 **Usage**
 
 The code is simple to use, have processing ready to go then press the 'run' button
