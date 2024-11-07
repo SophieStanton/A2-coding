@@ -26,8 +26,8 @@ This coding challenge intends to to tackle an artistic challenge that combined a
 **Screenshots**
 <img width="601" alt="Screen Shot 2024-11-02 at 12 03 51 pm" src="https://github.com/user-attachments/assets/751b5a40-d6f1-4fd6-bef0-77aa73ed8176">
 
-<img width="602" alt="Screen Shot 2024-11-02 at 12 08 55 pm" src="https://github.com/user-attachments/assets/cc81aaa2-93b4-430f-be54-69756cd7b665"
+<img width="602" alt="Screen Shot 2024-11-02 at 12 08 55 pm" src="https://github.com/user-attachments/assets/cc81aaa2-93b4-430f-be54-69756cd7b665">
 <img width="602" alt="Screen Shot 2024-11-02 at 12 08 55 pm" src="https://github.com/user-attachments/assets/757a967c-3f55-400f-8e14-c7387e9d981e">
->
+
 
 
